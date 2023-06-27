@@ -5,6 +5,9 @@ This is the repository for the Lumière Salon website. It is a static website bu
 ## Live Demo
 
 You can access the live version of the website at [Lumière Salon](https://different-aback-wallet.glitch.me/).
+a glimpse of the website is at;
+![image](https://github.com/BenjaminKakai/Salon-Website/assets/114109979/5c7310c5-7d5d-4631-89f8-e65575d94033)
+
 
 ## Features
 
